@@ -4,7 +4,7 @@
 
 wellcome to underground...
 
-```
+```bash
 # usage
 $ ./underground
 00381189...686780086377467119...3755863115359...423
