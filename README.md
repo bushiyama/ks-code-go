@@ -13,4 +13,4 @@ $ ./underground
 59...500009...3879...270042355300119...811411
 ```
 
-* Stop with this command: Ctrl+c
+* Commands required to stop: Ctrl+c
