@@ -4,11 +4,6 @@
 
 wellcome to underground...
 
-```
-# usage
-$ go run underground.go
-00381189...686780086377467119...3755863115359...423
-008500004462368339...8485835200259...28541167886481
-69...9...6731121100110011429...88347444434281111662
-59...500009...3879...270042355300119...811411
-```
+![underground_demo](https://user-images.githubusercontent.com/45021814/111646418-fab12880-8844-11eb-956f-fb9b486894b6.gif)
+
+* Commands required to stop: Ctrl+c
